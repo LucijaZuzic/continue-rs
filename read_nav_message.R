@@ -2,7 +2,13 @@ rm(list=ls())
 
 # Declaration of the R libraries utilised
 
+# Core data frameworks
+library(data.table)
 library(tidyverse)
+
+# Miscellaneous UI
+library(gridExtra)
+library(import)
 
 getCurrentFileLocation<-function()
 {
@@ -18,41 +24,42 @@ getCurrentFileLocation<-function()
 }
 
 # Set path to the working directory containing:
-# 1. INTERMAGNET data set - to be taken from the INTERMAGNET web-site,and reformatted 
-# accordingly - # reformatted original data enclosed
-# 2. TEC data set,as derived from the RINEX GPS observations using GPS TEC software - enclosed
+
+# 1. INTERMAGNET data set-to be taken from the INTERMAGNET web-site,and reformatted 
+# accordingly-# reformatted original data enclosed
+# 2. TEC data set,as derived from the RINEX GPS observations using GPS TEC software-enclosed
 
 setwd(getCurrentFileLocation())
 
-# Process all days of the year (1 to 365)
+# Process all days of the year 2014 (1 to 365)
 
 results<-lapply(1:365,function(DOY) {
-  
+
   # Construct the file path
-  
-  file_path<-paste0('GPS navigation messages 2014/brdc',DOY,'0.14n')
+
+  file_path<-paste('GPS navigation messages 2014/brdc',DOY,'0.14n',sep='')
   
   # Check if file exists
   
   if (!file.exists(file_path)) return(NULL)
-  
+
   # Read the first 5 lines of the file
-  
+
   head<-readLines(file_path,n=5,warn=FALSE)
-  
+
   # Extract lines 4 and 5
-  
+
   alphas_str<-head[4]
   betas_str<-head[5]
-  
+
   # Clean, split, replace 'D' with 'E', and convert to numeric
   # trimws() removes leading/trailing spaces
   # strsplit(..., '\\s+') splits by any amount of whitespace
   # gsub() replaces the Fortran 'D' scientific notation with standard 'E'
-  
+
   alphas<-as.numeric(gsub('D','E',strsplit(trimws(alphas_str),'\\s+')[[1]]))
   betas<-as.numeric(gsub('D','E',strsplit(trimws(betas_str),'\\s+')[[1]]))
-  
+
   # Return as a 1-row data frame
   
   data.frame(

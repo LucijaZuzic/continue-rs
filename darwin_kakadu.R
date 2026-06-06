@@ -22,13 +22,14 @@ getCurrentFileLocation<-function()
 }
 
 # Set path to the working directory containing:
-# 1. INTERMAGNET data set - to be taken from the INTERMAGNET web-site,and reformatted 
-# accordingly - # reformatted original data enclosed
-# 2. TEC data set,as derived from the RINEX GPS observations using GPS TEC software - enclosed
+# 1. INTERMAGNET data set-to be taken from the INTERMAGNET web-site,and reformatted 
+# accordingly-# reformatted original data enclosed
+# 2. TEC data set,as derived from the RINEX GPS observations using GPS TEC software-enclosed
 
 setwd(getCurrentFileLocation())
 
 limited<-150
+dir.create(file.path(paste('TEC_',limited,sep='')),showWarnings=FALSE)
 
 stations <- data.frame(
   place=c('Darwin, NT', 'Kakadu, NT'),
@@ -59,12 +60,11 @@ map_plot<-ggplot() +
   ) +
   theme_minimal() +
   labs(
-    title='Map of observing stations',
+    title='Map of observing stations | © OpenStreetMap, ODbL',
     x='Longitude',
     y='Latitude'
   )
 
-dir.create(file.path(paste('TEC_',limited,sep='')),showWarnings=FALSE)
 ggsave(
   filename=paste('TEC_',limited,'/Observing_stations_map.pdf_',limited,'.pdf',sep=''), 
   plot=map_plot,
