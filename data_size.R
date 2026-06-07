@@ -96,8 +96,14 @@ for(j in 1:12){
 print(paste(2014,total_old,total_new,total_diff,round(total_diff/total_old*100,2),round(total_new/total_old*100,2)))
 print(max(iono1$TEC))
 print(summary(tec_dst_rejected))
+print(sd(tec_dst_rejected$TEC))
+print(var(tec_dst_rejected$TEC))
 print(summary(tec_dst_accepted))
+print(sd(tec_dst_accepted$TEC))
+print(var(tec_dst_accepted$TEC))
 print(summary(tec_dst_all))
+print(sd(tec_dst_all$TEC))
+print(var(tec_dst_all$TEC))
 
 # Data input: Geomagnetic field density components,as taken at the Kakadu,NT
 # INTERMAGNET reference station-original data reformatted

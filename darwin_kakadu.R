@@ -66,7 +66,7 @@ map_plot<-ggplot() +
   )
 
 ggsave(
-  filename=paste('TEC_',limited,'/Observing_stations_map.pdf_',limited,'.pdf',sep=''), 
+  filename=paste('TEC_',limited,'/Observing_stations_map_',limited,'.pdf',sep=''), 
   plot=map_plot,
   width=8,         # Width of the PDF
   height=6,        # Height of the PDF
