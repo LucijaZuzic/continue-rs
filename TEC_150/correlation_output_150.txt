@@ -1,0 +1,346 @@
+      TEC               Dst         
+ Min.   :   1.00   Min.   :-39.000  
+ 1st Qu.:  14.23   1st Qu.:-10.000  
+ Median :  26.97   Median : -6.000  
+ Mean   :  64.16   Mean   : -5.711  
+ 3rd Qu.:  43.25   3rd Qu.:  0.000  
+ Max.   :1233.00   Max.   : 17.000  
+      TEC              Dst         
+ Min.   :  1.00   Min.   :-39.000  
+ 1st Qu.: 13.44   1st Qu.:-10.000  
+ Median : 25.55   Median : -6.000  
+ Mean   : 27.91   Mean   : -5.787  
+ 3rd Qu.: 40.04   3rd Qu.:  0.000  
+ Max.   :149.00   Max.   : 17.000  
+      TEC              Dst         
+ Min.   : 150.0   Min.   :-14.000  
+ 1st Qu.: 410.0   1st Qu.:-11.000  
+ Median : 651.0   Median : -6.000  
+ Mean   : 664.3   Mean   : -4.464  
+ 3rd Qu.: 921.0   3rd Qu.:  0.000  
+ Max.   :1233.0   Max.   : 10.000  
+[1] "January 43127 40670 2457 5.7 94.3"
+[1] 149
+      TEC               Dst         
+ Min.   :   1.00   Min.   :-119.00  
+ 1st Qu.:  17.52   1st Qu.: -28.00  
+ Median :  36.18   Median : -15.00  
+ Mean   : 170.20   Mean   : -18.36  
+ 3rd Qu.:  67.00   3rd Qu.:   0.00  
+ Max.   :1248.00   Max.   :  44.00  
+      TEC              Dst         
+ Min.   :  1.00   Min.   :-119.00  
+ 1st Qu.: 14.21   1st Qu.: -27.00  
+ Median : 26.57   Median : -13.00  
+ Mean   : 30.89   Mean   : -16.71  
+ 3rd Qu.: 43.58   3rd Qu.:   1.00  
+ Max.   :149.00   Max.   :  44.00  
+      TEC              Dst       
+ Min.   : 150.0   Min.   :-95.0  
+ 1st Qu.: 395.0   1st Qu.:-36.0  
+ Median : 676.0   Median :-21.0  
+ Mean   : 670.8   Mean   :-24.3  
+ 3rd Qu.: 941.0   3rd Qu.:-11.0  
+ Max.   :1248.0   Max.   :  9.0  
+[1] "February 39961 31262 8699 21.77 78.23"
+[1] 149
+      TEC               Dst        
+ Min.   :   1.00   Min.   :-52.00  
+ 1st Qu.:  16.30   1st Qu.:-11.00  
+ Median :  34.23   Median : -6.00  
+ Mean   :  53.71   Mean   : -7.15  
+ 3rd Qu.:  51.10   3rd Qu.: -2.00  
+ Max.   :1288.00   Max.   : 19.00  
+      TEC              Dst        
+ Min.   :  1.00   Min.   :-52.00  
+ 1st Qu.: 15.62   1st Qu.:-11.00  
+ Median : 34.23   Median : -6.00  
+ Mean   : 34.28   Mean   : -7.11  
+ 3rd Qu.: 49.42   3rd Qu.: -1.00  
+ Max.   :149.00   Max.   : 19.00  
+      TEC              Dst         
+ Min.   : 150.0   Min.   :-12.000  
+ 1st Qu.: 416.8   1st Qu.:-10.000  
+ Median : 710.5   Median : -9.000  
+ Mean   : 712.2   Mean   : -8.531  
+ 3rd Qu.:1001.2   3rd Qu.: -7.000  
+ Max.   :1288.0   Max.   : -4.000  
+[1] "March 44371 43099 1272 2.87 97.13"
+[1] 149
+      TEC              Dst        
+ Min.   :  1.96   Min.   :-87.00  
+ 1st Qu.:  7.83   1st Qu.:-16.00  
+ Median : 22.01   Median : -9.00  
+ Mean   : 26.35   Mean   :-11.95  
+ 3rd Qu.: 43.36   3rd Qu.: -2.00  
+ Max.   :108.71   Max.   : 22.00  
+      TEC              Dst        
+ Min.   :  1.96   Min.   :-87.00  
+ 1st Qu.:  7.83   1st Qu.:-16.00  
+ Median : 22.01   Median : -9.00  
+ Mean   : 26.35   Mean   :-11.95  
+ 3rd Qu.: 43.36   3rd Qu.: -2.00  
+ Max.   :108.71   Max.   : 22.00  
+      TEC           Dst     
+ Min.   : NA   Min.   : NA  
+ 1st Qu.: NA   1st Qu.: NA  
+ Median : NA   Median : NA  
+ Mean   :NaN   Mean   :NaN  
+ 3rd Qu.: NA   3rd Qu.: NA  
+ Max.   : NA   Max.   : NA  
+[1] "April 42915 42915 0 0 100"
+[1] 108.71
+      TEC             Dst         
+ Min.   : 1.94   Min.   :-47.000  
+ 1st Qu.: 4.28   1st Qu.:-13.000  
+ Median :12.24   Median : -4.000  
+ Mean   :14.97   Mean   : -5.748  
+ 3rd Qu.:23.48   3rd Qu.:  3.000  
+ Max.   :48.37   Max.   : 18.000  
+      TEC             Dst         
+ Min.   : 1.94   Min.   :-47.000  
+ 1st Qu.: 4.28   1st Qu.:-13.000  
+ Median :12.24   Median : -4.000  
+ Mean   :14.97   Mean   : -5.748  
+ 3rd Qu.:23.48   3rd Qu.:  3.000  
+ Max.   :48.37   Max.   : 18.000  
+      TEC           Dst     
+ Min.   : NA   Min.   : NA  
+ 1st Qu.: NA   1st Qu.: NA  
+ Median : NA   Median : NA  
+ Mean   :NaN   Mean   :NaN  
+ 3rd Qu.: NA   3rd Qu.: NA  
+ Max.   : NA   Max.   : NA  
+[1] "May 44373 44373 0 0 100"
+[1] 48.37
+      TEC              Dst         
+ Min.   :  1.00   Min.   :-37.000  
+ 1st Qu.:  4.52   1st Qu.: -6.000  
+ Median : 10.45   Median :  1.000  
+ Mean   : 22.56   Mean   : -1.145  
+ 3rd Qu.: 17.97   3rd Qu.:  6.000  
+ Max.   :733.00   Max.   : 29.000  
+      TEC              Dst         
+ Min.   :  1.00   Min.   :-37.000  
+ 1st Qu.:  4.49   1st Qu.: -6.000  
+ Median :  9.43   Median :  1.000  
+ Mean   : 11.78   Mean   : -1.375  
+ 3rd Qu.: 17.46   3rd Qu.:  5.000  
+ Max.   :149.00   Max.   : 29.000  
+      TEC             Dst        
+ Min.   :150.0   Min.   :-9.000  
+ 1st Qu.:291.0   1st Qu.: 1.000  
+ Median :443.0   Median : 7.000  
+ Mean   :427.1   Mean   : 7.481  
+ 3rd Qu.:542.0   3rd Qu.:15.000  
+ Max.   :733.0   Max.   :19.000  
+[1] "June 42906 41793 1113 2.59 97.41"
+[1] 149
+      TEC              Dst         
+ Min.   :  1.00   Min.   :-28.000  
+ 1st Qu.:  4.40   1st Qu.: -2.000  
+ Median :  9.12   Median :  3.000  
+ Mean   : 28.73   Mean   :  2.778  
+ 3rd Qu.: 19.79   3rd Qu.:  8.000  
+ Max.   :971.00   Max.   : 46.000  
+      TEC              Dst         
+ Min.   :  1.00   Min.   :-28.000  
+ 1st Qu.:  4.31   1st Qu.: -2.000  
+ Median :  8.61   Median :  3.000  
+ Mean   : 12.09   Mean   :  2.828  
+ 3rd Qu.: 18.75   3rd Qu.:  8.000  
+ Max.   :149.00   Max.   : 46.000  
+      TEC             Dst        
+ Min.   :150.0   Min.   :-8.000  
+ 1st Qu.:378.5   1st Qu.:-1.000  
+ Median :631.0   Median : 1.000  
+ Mean   :600.4   Mean   : 1.062  
+ 3rd Qu.:832.0   3rd Qu.: 4.000  
+ Max.   :971.0   Max.   : 7.000  
+[1] "July 44377 43122 1255 2.83 97.17"
+[1] 149
+      TEC             Dst         
+ Min.   : 1.98   Min.   :-79.000  
+ 1st Qu.: 4.23   1st Qu.:-14.000  
+ Median :12.44   Median : -5.000  
+ Mean   :13.89   Mean   : -8.141  
+ 3rd Qu.:21.54   3rd Qu.:  2.000  
+ Max.   :48.09   Max.   : 28.000  
+      TEC             Dst         
+ Min.   : 1.98   Min.   :-79.000  
+ 1st Qu.: 4.23   1st Qu.:-14.000  
+ Median :12.44   Median : -5.000  
+ Mean   :13.89   Mean   : -8.141  
+ 3rd Qu.:21.54   3rd Qu.:  2.000  
+ Max.   :48.09   Max.   : 28.000  
+      TEC           Dst     
+ Min.   : NA   Min.   : NA  
+ 1st Qu.: NA   1st Qu.: NA  
+ Median : NA   Median : NA  
+ Mean   :NaN   Mean   :NaN  
+ 3rd Qu.: NA   3rd Qu.: NA  
+ Max.   : NA   Max.   : NA  
+[1] "August 44256 44256 0 0 100"
+[1] 48.09
+      TEC             Dst        
+ Min.   : 1.94   Min.   :-88.00  
+ 1st Qu.: 8.07   1st Qu.:-24.00  
+ Median :21.05   Median :-16.00  
+ Mean   :21.97   Mean   :-16.85  
+ 3rd Qu.:32.00   3rd Qu.: -9.00  
+ Max.   :80.71   Max.   : 19.00  
+      TEC             Dst        
+ Min.   : 1.94   Min.   :-88.00  
+ 1st Qu.: 8.07   1st Qu.:-24.00  
+ Median :21.05   Median :-16.00  
+ Mean   :21.97   Mean   :-16.85  
+ 3rd Qu.:32.00   3rd Qu.: -9.00  
+ Max.   :80.71   Max.   : 19.00  
+      TEC           Dst     
+ Min.   : NA   Min.   : NA  
+ 1st Qu.: NA   1st Qu.: NA  
+ Median : NA   Median : NA  
+ Mean   :NaN   Mean   :NaN  
+ 3rd Qu.: NA   3rd Qu.: NA  
+ Max.   : NA   Max.   : NA  
+[1] "September 42960 42960 0 0 100"
+[1] 80.71
+      TEC             Dst        
+ Min.   : 1.97   Min.   :-57.00  
+ 1st Qu.:12.01   1st Qu.:-29.00  
+ Median :24.28   Median :-20.00  
+ Mean   :26.04   Mean   :-18.96  
+ 3rd Qu.:38.39   3rd Qu.: -9.00  
+ Max.   :86.60   Max.   : 17.00  
+      TEC             Dst        
+ Min.   : 1.97   Min.   :-57.00  
+ 1st Qu.:12.01   1st Qu.:-29.00  
+ Median :24.28   Median :-20.00  
+ Mean   :26.04   Mean   :-18.96  
+ 3rd Qu.:38.39   3rd Qu.: -9.00  
+ Max.   :86.60   Max.   : 17.00  
+      TEC           Dst     
+ Min.   : NA   Min.   : NA  
+ 1st Qu.: NA   1st Qu.: NA  
+ Median : NA   Median : NA  
+ Mean   :NaN   Mean   :NaN  
+ 3rd Qu.: NA   3rd Qu.: NA  
+ Max.   : NA   Max.   : NA  
+[1] "October 42961 42961 0 0 100"
+[1] 86.6
+      TEC             Dst        
+ Min.   : 1.74   Min.   :-65.00  
+ 1st Qu.:11.76   1st Qu.:-27.00  
+ Median :23.26   Median :-19.00  
+ Mean   :24.21   Mean   :-17.86  
+ 3rd Qu.:34.86   3rd Qu.: -8.00  
+ Max.   :71.93   Max.   : 25.00  
+      TEC             Dst        
+ Min.   : 1.74   Min.   :-65.00  
+ 1st Qu.:11.76   1st Qu.:-27.00  
+ Median :23.26   Median :-19.00  
+ Mean   :24.21   Mean   :-17.86  
+ 3rd Qu.:34.86   3rd Qu.: -8.00  
+ Max.   :71.93   Max.   : 25.00  
+      TEC           Dst     
+ Min.   : NA   Min.   : NA  
+ 1st Qu.: NA   1st Qu.: NA  
+ Median : NA   Median : NA  
+ Mean   :NaN   Mean   :NaN  
+ 3rd Qu.: NA   3rd Qu.: NA  
+ Max.   : NA   Max.   : NA  
+[1] "November 42958 42958 0 0 100"
+[1] 71.93
+      TEC             Dst        
+ Min.   : 2.06   Min.   :-71.00  
+ 1st Qu.:11.91   1st Qu.:-31.00  
+ Median :22.24   Median :-23.00  
+ Mean   :25.04   Mean   :-22.85  
+ 3rd Qu.:35.59   3rd Qu.:-14.00  
+ Max.   :83.61   Max.   : 19.00  
+      TEC             Dst        
+ Min.   : 2.06   Min.   :-71.00  
+ 1st Qu.:11.91   1st Qu.:-31.00  
+ Median :22.24   Median :-23.00  
+ Mean   :25.04   Mean   :-22.85  
+ 3rd Qu.:35.59   3rd Qu.:-14.00  
+ Max.   :83.61   Max.   : 19.00  
+      TEC           Dst     
+ Min.   : NA   Min.   : NA  
+ 1st Qu.: NA   1st Qu.: NA  
+ Median : NA   Median : NA  
+ Mean   :NaN   Mean   :NaN  
+ 3rd Qu.: NA   3rd Qu.: NA  
+ Max.   : NA   Max.   : NA  
+[1] "December 44379 44379 0 0 100"
+[1] 83.61
+[1] "2014 519544 504748 14796 2.85 97.15"
+[1] 149
+      TEC              Dst         
+ Min.   :  1.00   Min.   :-119.00  
+ 1st Qu.:  6.96   1st Qu.: -20.00  
+ Median : 18.95   Median :  -8.00  
+ Mean   : 22.22   Mean   : -10.79  
+ 3rd Qu.: 32.36   3rd Qu.:   0.00  
+ Max.   :149.00   Max.   :  46.00  
+      TEC              Dst        
+ Min.   : 150.0   Min.   :-95.00  
+ 1st Qu.: 389.0   1st Qu.:-25.00  
+ Median : 634.0   Median :-11.00  
+ Mean   : 649.0   Mean   :-15.11  
+ 3rd Qu.: 898.2   3rd Qu.:  0.00  
+ Max.   :1288.0   Max.   : 19.00  
+      TEC               Dst         
+ Min.   :   1.00   Min.   :-119.00  
+ 1st Qu.:   7.25   1st Qu.: -20.00  
+ Median :  19.61   Median :  -8.00  
+ Mean   :  40.07   Mean   : -10.92  
+ 3rd Qu.:  34.23   3rd Qu.:   0.00  
+ Max.   :1288.00   Max.   :  46.00  
+
+
+--- PEARSON CORRELATION MATRIX (TEC,Bx,By,Bz) ---
+          TEC          Bx          By        Bz
+TEC 1.0000000  0.32884780  0.24457489 0.5601177
+Bx  0.3288478  1.00000000 -0.03212555 0.4101650
+By  0.2445749 -0.03212555  1.00000000 0.1114557
+Bz  0.5601177  0.41016504  0.11145571 1.0000000
+
+
+--- KOLMOGOROV-SMIRNOV NORMALITY TESTS ---
+
+Variable: TEC 
+
+	Asymptotic one-sample Kolmogorov-Smirnov test
+
+data:  var_data
+D = 0.12367, p-value < 2.2e-16
+alternative hypothesis: two-sided
+
+
+Variable: Bx 
+
+	Asymptotic one-sample Kolmogorov-Smirnov test
+
+data:  var_data
+D = 0.071212, p-value < 2.2e-16
+alternative hypothesis: two-sided
+
+
+Variable: By 
+
+	Asymptotic one-sample Kolmogorov-Smirnov test
+
+data:  var_data
+D = 0.030047, p-value < 2.2e-16
+alternative hypothesis: two-sided
+
+
+Variable: Bz 
+
+	Asymptotic one-sample Kolmogorov-Smirnov test
+
+data:  var_data
+D = 0.15363, p-value < 2.2e-16
+alternative hypothesis: two-sided
+
